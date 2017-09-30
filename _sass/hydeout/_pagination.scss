@@ -7,8 +7,8 @@
 */
 
 .pagination {
-  margin-bottom: $section-spacing;
-  color: $gray-3;
+  margin-bottom: $section-spacing; 
+  // color: $gray-3; TODO: figure out which color to use here
   text-align: center;
 
   > a {
